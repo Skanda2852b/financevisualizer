@@ -4,7 +4,6 @@ import TransactionForm from './components/TransactionForm';
 import TransactionList from './components/TransactionList';
 import MonthlyExpensesChart from './components/MonthlyExpensesChart';
 import CategoryPieChart from './components/CategoryPieChart';
-import SummaryCards from './components/SummaryCards';
 import Dashboard from './components/Dashboard';
 import { processMonthlyData } from './lib/utils';
 
